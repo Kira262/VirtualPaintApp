@@ -39,7 +39,6 @@ colors = [
     (0, 255, 255),  # Yellow
     (255, 0, 255),  # Magenta
     (255, 255, 0),  # Cyan
-    (0, 0, 0),  # Black
 ]
 color_index = 0
 prev_x, prev_y = None, None
