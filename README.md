@@ -9,9 +9,9 @@ A hand gesture-based virtual painting application using OpenCV and MediaPipe.
 ✅ Exit with index + pinky gesture  
 
 ## Installation
-1. Clone the repository:
-2. Install dependencies: pip install -r requirements.txt
-3. Run the app: python virtual_paint.py
+1. Clone the repository: ` git clone https://github.com/kira262/VirtualPaintApp.git `
+2. Install dependencies: ` pip install -r requirements.txt `
+3. Run the app: ` python virtual_paint.py `
  
 ## Dependencies
 - OpenCV
